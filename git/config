@@ -1,0 +1,17 @@
+Host %reNAME_toGITHUB>COM%
+	HostName github.com
+	User git
+	IdentityFile c:/Users/%USER_NAME%/.ssh/%YOUR_NAME_SSH-KEY%
+	IdentitiesOnly yes
+
+Host %reNAME_toGITHUB>COM%
+	HostName github.com
+	User git
+	IdentityFile c:/Users/%USER_NAME%/.ssh/%YOUR_NAME_SSH-KEY%
+	IdentitiesOnly yes
+
+Host laedo303PC
+	HostName github.com
+	User git
+	IdentityFile c:/Users/anki/.ssh/laedo303PC
+	IdentitiesOnly yes
